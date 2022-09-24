@@ -2,7 +2,7 @@
 
 ### About Me 👧🏼
 
-Hello 👋 Welcome to my Github profile, my name is Ana Chitanava (root). I am a **Software Engineer**, **IT Support**, **Streamer** and **Gamer** with 11 years of experience. My interests are information technologies, artificial intelligence and psychology
+Hello 👋 Welcome to my Github profile, my name is Ana Chitanava (root). I am a **Software Engineer 👩🏻‍💻**, **IT Support 👾**, **Streamer 🔴** and **Gamer 🎮** with 11 years of experience. My interests are information technologies, artificial intelligence and ᴘsʏᴄʜᴏʟᴏɢʏ 👩🏻‍🎓
 
 
 ### Social Networks
