@@ -12,3 +12,4 @@ My interests are Information technologies, artificial intelligence and ethical h
 ### Social Networks
  - [Facebook](https://www.facebook.com/profile.php?id=100007349209044)
  - [Instagram](https://www.instagram.com/itckx/)
+ - [Discord](https://discord.gg/FegSD6sHbR)
