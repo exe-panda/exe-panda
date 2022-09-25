@@ -2,7 +2,9 @@
 
 ### About Me 👨🏻‍💻
 
-Hello 👋 Welcome to my Github profile, my name is Irakli Beridze (panda). I am a **Software Engineer 👨🏻‍💻**, **Ethical hacker 👾**, **Writer-poet 🔴** and **Animator 🎮** with 13 years of experience.
+Hello 👋 Welcome to my Github profile.
+
+My name is Irakli Beridze (panda). I am a **Software Engineer 👨🏻‍💻**, **Ethical hacker 👾**, **Writer-poet 🔴** and **Animator 🎮** with 13 years of experience.
 
 My interests are Information technologies, artificial intelligence and ethical hacking.
 
